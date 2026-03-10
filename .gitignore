@@ -1,3 +1,4 @@
 # Ignore report/support artifacts requested to be removed from remote
 *.md
+!README.md
 IEEE_Report_With_Images.tex
